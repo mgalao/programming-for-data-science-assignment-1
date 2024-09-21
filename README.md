@@ -8,8 +8,8 @@
 - **<u>Platform</u>**: Moodle
 - **Deadline**: 4th October, 11:59 PM
 
-## Project Overview
-This repository contains the materials for our group project in the Programming for Data Science course. Our task is ...
+## Assignment Overview
+This repository contains the materials for our first homework assignment in the Programming for Data Science course. Our task is ...
 
-## Project Requirements
+## Assignment Requirements
 ...
