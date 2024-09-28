@@ -9,7 +9,7 @@
 - **Deadline**: 4th October, 11:59 PM
 
 ## Assignment Overview
-This repository contains the materials for our first assignment in the Programming for Data Science course. Our task is ...
+This repository contains the materials for our first assignment in the Programming for Data Science course. Our task is to solve a series of coding exercises.
 
 ## Assignment Guidelines
 Your submission will be graded according to the following guidelines:
